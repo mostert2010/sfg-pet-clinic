@@ -1,6 +1,6 @@
 package com.mostert2010.sfgpetclinic.models;
 
-public class Person {
+public class Person extends BaseEntity {
 
 	private String firstName;
 	private String lastName;
