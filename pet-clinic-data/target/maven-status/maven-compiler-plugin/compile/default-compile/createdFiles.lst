@@ -1,5 +1,14 @@
-com\mostert2010\sfgpetclinic\models\Vet.class
-com\mostert2010\sfgpetclinic\models\PetType.class
-com\mostert2010\sfgpetclinic\models\Owner.class
+com\mostert2010\sfgpetclinic\services\map\PetServiceMap.class
+com\mostert2010\sfgpetclinic\services\CrudService.class
 com\mostert2010\sfgpetclinic\models\Pet.class
+com\mostert2010\sfgpetclinic\services\map\AbstractMapService.class
+com\mostert2010\sfgpetclinic\services\map\OwnerServiceMap.class
+com\mostert2010\sfgpetclinic\services\VetService.class
+com\mostert2010\sfgpetclinic\services\PetService.class
+com\mostert2010\sfgpetclinic\models\PetType.class
+com\mostert2010\sfgpetclinic\services\OwnerService.class
 com\mostert2010\sfgpetclinic\models\Person.class
+com\mostert2010\sfgpetclinic\services\map\VetServiceMap.class
+com\mostert2010\sfgpetclinic\models\BaseEntity.class
+com\mostert2010\sfgpetclinic\models\Vet.class
+com\mostert2010\sfgpetclinic\models\Owner.class

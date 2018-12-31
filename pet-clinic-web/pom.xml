@@ -5,10 +5,9 @@
 		<artifactId>sfg-pet-clinic</artifactId>
 		<version>0.0.3-SNAPSHOT</version>
 	</parent>
+	
 	<artifactId>pet-clinic-web</artifactId>
-	<packaging>pom</packaging>
-	<name>pet-clinic-web</name>
-
+	
 	<dependencies>
 		<dependency>
 			<groupId>com.mostert2010</groupId>
