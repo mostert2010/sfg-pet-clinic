@@ -3,9 +3,9 @@ package com.mostert2010.sfgpetclinic.services.map;
 import java.util.Set;
 
 import com.mostert2010.sfgpetclinic.models.Vet;
-import com.mostert2010.sfgpetclinic.services.CrudService;
+import com.mostert2010.sfgpetclinic.services.VetService;
 
-public class VetServiceMap extends AbstractMapService<Vet, Long> implements CrudService<Vet, Long> {
+public class VetServiceMap extends AbstractMapService<Vet, Long> implements VetService {
 
 	@Override
 	public Set<Vet> findAll() {
